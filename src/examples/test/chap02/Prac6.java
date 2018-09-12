@@ -13,8 +13,8 @@ public class Prac6 {
             x /= r;
         } while (x > 0);
 
-        for (int i = digits; i >= 0; i--)
-            d[i] = tmp[i];
+        for (int i = 0; i < digits; i++)
+            d[i] = tmp[digits - i - 1];
 
         for (int i = 0; i < digits; i++)
             System.out.print(d[i]);

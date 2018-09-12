@@ -26,13 +26,6 @@ public class StringCompare {
         }
 
         return 0;
-
-//        for (int j = 0; j < a.length(); j++) {
-//            if (a.charAt(j) < b.charAt(j)) return -1;
-//            else if (a.charAt(j) > b.charAt(j)) return 1;
-//        }
-//
-//        return 0;
     }
 
     static int capsCheck(String a, String b) {
