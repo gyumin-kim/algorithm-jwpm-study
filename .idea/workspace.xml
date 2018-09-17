@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20ecbaad-e8fa-4f55-83e2-94b27b2caa3a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/examples/test/chap03/Prac1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/test/chap03/Prac2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-jwpm-study/examples/test/etc/SecretMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-jwpm-study/examples/test/etc/SecretMap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/algorithm-jwpm-study/examples/test/etc/StringCompare.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-jwpm-study/examples/test/etc/StringCompare.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -51,41 +55,60 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="2" />
-          <entry key="project.open.time.1" value="2" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="58" />
+          <entry key="JAVA" value="60" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9624" />
-          <entry key="PLAIN_TEXT" value="62" />
+          <entry key="JAVA" value="10664" />
+          <entry key="PLAIN_TEXT" value="69" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9624" />
+          <entry key="dummy" value="7" />
+          <entry key="java" value="10664" />
           <entry key="txt" value="62" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="58" />
+          <entry key="java" value="60" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/examples/test/chap02/Prac6.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="203">
+              <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/examples/test/chap03/Prac1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="314">
+              <caret line="36" column="66" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/examples/test/chap03/Prac2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="353">
+              <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
             </state>
           </provider>
         </entry>
@@ -155,6 +178,9 @@
         <option value="$PROJECT_DIR$/src/examples/test/etc/SecretMap.java" />
         <option value="$PROJECT_DIR$/src/examples/test/chap02/Prac6.java" />
         <option value="$PROJECT_DIR$/src/examples/test/etc/StringCompare.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap03/Exam1.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap03/Prac1.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap03/Prac2.java" />
       </list>
     </option>
   </component>
@@ -164,17 +190,16 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="439" />
+    <option name="height" value="877" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,14 +223,7 @@
               <item name="algorithm-jwpm-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="chap01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-jwpm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="chap02" type="462c0819:PsiDirectoryNode" />
+              <item name="chap03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="algorithm-study" type="b2602c69:ProjectViewProjectNode" />
@@ -218,13 +236,14 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="string&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;prac11&#9;RUN_CONFIGURATION&#9;Prac11" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536729165349" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537183642530" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -248,13 +267,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SecretMap">
-    <configuration name="Prac10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="examples.test.chap02.Prac10" />
+  <component name="RunManager" selected="Application.Prac2">
+    <configuration name="Prac1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.test.chap03.Prac1" />
       <module name="algorithm-jwpm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="examples.test.chap02.*" />
+          <option name="PATTERN" value="examples.test.chap03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -275,12 +294,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prac11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="examples.test.chap02.Prac11" />
+    <configuration name="Prac2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.test.chap03.Prac2" />
       <module name="algorithm-jwpm-study" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="examples.test.chap02.*" />
+          <option name="PATTERN" value="examples.test.chap03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -315,19 +334,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Prac10" />
-      <item itemvalue="Application.Prac11" />
       <item itemvalue="Application.SecretMap" />
       <item itemvalue="Application.StringCompare" />
       <item itemvalue="Application.Prac11 (1)" />
+      <item itemvalue="Application.Prac1" />
+      <item itemvalue="Application.Prac2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Prac2" />
+        <item itemvalue="Application.Prac1" />
         <item itemvalue="Application.SecretMap" />
         <item itemvalue="Application.Prac11 (1)" />
         <item itemvalue="Application.StringCompare" />
-        <item itemvalue="Application.Prac11" />
-        <item itemvalue="Application.Prac10" />
       </list>
     </recent_temporary>
   </component>
@@ -356,7 +375,7 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16094421" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16309012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -365,7 +384,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30183727" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32545933" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -463,10 +482,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="202">
           <caret line="772" column="71" lean-forward="true" selection-start-line="772" selection-start-column="71" selection-end-line="772" selection-end-column="71" />
-          <folding>
-            <element signature="e#32010#32011#0" expanded="true" />
-            <element signature="e#32095#32096#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -591,14 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
           <caret line="1227" column="32" lean-forward="true" selection-start-line="1227" selection-start-column="32" selection-end-line="1227" selection-end-column="32" />
-          <folding>
-            <element signature="e#10902#10903#0" expanded="true" />
-            <element signature="e#10948#10949#0" expanded="true" />
-            <element signature="e#46394#46395#0" expanded="true" />
-            <element signature="e#46458#46459#0" expanded="true" />
-            <element signature="e#47036#47037#0" expanded="true" />
-            <element signature="e#47092#47093#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -730,8 +737,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/test/chap02/Prac6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="203">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/test/chap03/Prac1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="36" column="66" selection-start-line="36" selection-start-column="66" selection-end-line="36" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/test/chap03/Prac2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="32" column="48" lean-forward="true" selection-start-line="32" selection-start-column="48" selection-end-line="32" selection-end-column="48" />
         </state>
       </provider>
     </entry>
