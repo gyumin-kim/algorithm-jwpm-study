@@ -13,7 +13,7 @@ public class Prac2 {
         for (int i = 0; i < len; i++)
             System.out.print(i + "  ");
         System.out.println("");
-        System.out.println("---------------------------");
+        System.out.println("--+------------------------");
 
         for (int i = 0; i < len; i++) {
             // 별 출력되는 line
