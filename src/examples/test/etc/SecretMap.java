@@ -18,12 +18,15 @@ public class SecretMap {
         for (int i = 0; i < n; i++)
             arr2[i] = in.nextInt(); // 30 1 21 17 28
 
+        //TODO: 십진수끼리도 비트연산 가능
         for (int i = 0; i < n; i++) {
+            // Decimal
             String arr1Str = Integer.toBinaryString(arr1[i]);   // 9 -> 1001
             String arr2Str = Integer.toBinaryString(arr2[i]);
+
+            // toBinary
             char[] charArr1 = String.format("%05d", Integer.parseInt(arr1Str)).toCharArray();   // ['0', '1', '0', '0', '1']
             char[] charArr2 = String.format("%05d", Integer.parseInt(arr2Str)).toCharArray();
-
             for (int j = 0; j < n; j++) {
                 if (charArr1[j] == '1' | charArr2[j] == '1')    // 둘 중 하나만 1이면 #
                     tmp[i][j] = '#';
