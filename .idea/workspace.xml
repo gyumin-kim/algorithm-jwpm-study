@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20ecbaad-e8fa-4f55-83e2-94b27b2caa3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/examples/test/chap03/Prac7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/test/chap04/Exam4_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/test/chap04/Gstack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/test/chap04/IntStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/test/chap04/Prac1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/test/chap04/Gqueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/test/chap04/IntAryQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/test/chap04/IntDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/test/chap04/IntQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/test/chap04/IntQueue2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/test/chap04/Prac3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/algorithm-jwpm-study/examples/test/etc/SecretMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/algorithm-jwpm-study/examples/test/etc/SecretMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/test/etc/SecretMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/test/etc/SecretMap.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -65,25 +64,27 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="77" />
+          <entry key="JAVA" value="86" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15845" />
-          <entry key="PLAIN_TEXT" value="87" />
+          <entry key="JAVA" value="19737" />
+          <entry key="PLAIN_TEXT" value="98" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="21" />
-          <entry key="java" value="15845" />
+          <entry key="dummy" value="32" />
+          <entry key="java" value="19737" />
           <entry key="txt" value="66" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="77" />
+          <entry key="java" value="86" />
+          <entry key="md" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.vcs.git.usages" />
@@ -108,7 +109,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/IntStack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
+            <state relative-caret-position="-255">
               <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
               <folding>
                 <element signature="e#1265#1266#0" expanded="true" />
@@ -127,31 +128,34 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/Prac1.java">
+        <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/Prac3.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="38">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+              <folding>
+                <element signature="e#1980#1981#0" expanded="true" />
+                <element signature="e#2006#2007#0" expanded="true" />
+                <element signature="e#3203#3204#0" expanded="true" />
+                <element signature="e#3238#3239#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/IntQueue2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="703">
+              <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/Gstack.java">
+        <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/IntDeque.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-              <folding>
-                <element signature="e#1226#1227#0" expanded="true" />
-                <element signature="e#1249#1250#0" expanded="true" />
-                <element signature="e#1278#1279#0" expanded="true" />
-                <element signature="e#1304#1305#0" expanded="true" />
-                <element signature="e#1329#1330#0" expanded="true" />
-                <element signature="e#1355#1356#0" expanded="true" />
-                <element signature="e#1387#1388#0" expanded="true" />
-                <element signature="e#1418#1419#0" expanded="true" />
-                <element signature="e#1449#1450#0" expanded="true" />
-                <element signature="e#1482#1483#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="55" column="14" lean-forward="true" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -176,14 +180,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/examples/test/Chap01/Prac8.java" />
-        <option value="$PROJECT_DIR$/src/examples/test/Chap01/Prac9.java" />
-        <option value="$PROJECT_DIR$/src/examples/test/Chap01/Prac10.java" />
-        <option value="$PROJECT_DIR$/src/examples/test/Chap01/Prac11.java" />
-        <option value="$PROJECT_DIR$/src/examples/test/Chap01/Prac12.java" />
-        <option value="$PROJECT_DIR$/src/examples/test/Chap01/Prac13.java" />
-        <option value="$PROJECT_DIR$/src/examples/test/Chap01/Prac14.java" />
-        <option value="$PROJECT_DIR$/src/examples/test/Chap01/Prac15.java" />
         <option value="$PROJECT_DIR$/src/examples/test/Chap01/Prac16.java" />
         <option value="$PROJECT_DIR$/src/examples/test/Chap01/Prac17.java" />
         <option value="$PROJECT_DIR$/src/examples/test/Chap02/Exam2_3.java" />
@@ -227,6 +223,14 @@
         <option value="$PROJECT_DIR$/src/examples/test/chap04/Prac2.java" />
         <option value="$PROJECT_DIR$/src/examples/test/chap04/IntStack.java" />
         <option value="$PROJECT_DIR$/src/examples/test/chap04/Gstack.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap04/Prac3.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap04/Prac4.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap04/IntAryQueue.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap04/IntQueue.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap04/IntQueue2.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap04/Gqueue.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap04/IntDequq.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap04/IntDeque.java" />
       </list>
     </option>
   </component>
@@ -272,6 +276,13 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="chap04" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="algorithm-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="algorithm-jwpm-study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="etc" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -282,12 +293,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="string&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;prac11&#9;RUN_CONFIGURATION&#9;Prac11" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537625695188" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537675152011" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -465,56 +476,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/examples/test/chap02/Exam2_3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examples/test/chap02/Exam2_5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examples/test/chap02/Prac2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examples/test/chap02/Prac4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="24" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examples/test/chap02/Prac5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examples/test/chap02/dsfd.java" />
-    <entry file="file://$PROJECT_DIR$/src/examples/test/chap02/Exam2_8B.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-144">
-          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examples/test/chap02/Exam2_8A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/test/chap02/Exam2_11.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -816,9 +777,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/IntStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
+        <state relative-caret-position="-255">
           <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding>
             <element signature="e#1265#1266#0" expanded="true" />
@@ -835,10 +803,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/IntQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="95" column="5" lean-forward="true" selection-start-line="95" selection-start-column="5" selection-end-line="95" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/IntAryQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#1569#1570#0" expanded="true" />
+            <element signature="e#1607#1608#0" expanded="true" />
+            <element signature="e#1640#1641#0" expanded="true" />
+            <element signature="e#1661#1662#0" expanded="true" />
+            <element signature="e#1695#1696#0" expanded="true" />
+            <element signature="e#1721#1722#0" expanded="true" />
+            <element signature="e#1757#1758#0" expanded="true" />
+            <element signature="e#1805#1806#0" expanded="true" />
+            <element signature="e#1850#1851#0" expanded="true" />
+            <element signature="e#1909#1910#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/Gstack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        <state relative-caret-position="475">
+          <caret line="25" column="9" lean-forward="true" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
           <folding>
             <element signature="e#1226#1227#0" expanded="true" />
             <element signature="e#1249#1250#0" expanded="true" />
@@ -851,6 +845,47 @@
             <element signature="e#1449#1450#0" expanded="true" />
             <element signature="e#1482#1483#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/Gqueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="75" column="24" selection-start-line="75" selection-start-column="24" selection-end-line="75" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/Prac3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+          <folding>
+            <element signature="e#1980#1981#0" expanded="true" />
+            <element signature="e#2006#2007#0" expanded="true" />
+            <element signature="e#3203#3204#0" expanded="true" />
+            <element signature="e#3238#3239#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/IntDequq.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/IntQueue2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="703">
+          <caret line="37" column="17" lean-forward="true" selection-start-line="37" selection-start-column="17" selection-end-line="37" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/test/chap04/IntDeque.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="55" column="14" lean-forward="true" selection-start-line="55" selection-start-column="14" selection-end-line="55" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -911,7 +946,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
