@@ -4,6 +4,7 @@
 > - [Chapter 01](https://github.com/gyumin-kim/algorithm-jwpm-study/tree/master/src/examples/test/chap01)
 > - [Chapter 02](https://github.com/gyumin-kim/algorithm-jwpm-study/tree/master/src/examples/test/chap02)
 > - [Chapter 03](https://github.com/gyumin-kim/algorithm-jwpm-study/tree/master/src/examples/test/chap03)
+> - [Chapter 04](https://github.com/gyumin-kim/algorithm-jwpm-study/tree/master/src/examples/test/chap04)
 > - [Etc.](https://github.com/gyumin-kim/algorithm-jwpm-study/tree/master/src/examples/test/etc)
 
 ## Memo
