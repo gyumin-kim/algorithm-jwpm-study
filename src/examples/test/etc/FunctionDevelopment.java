@@ -10,30 +10,30 @@ public class FunctionDevelopment {
      * count를 1씩 누적한다.
      */
     public static int[] solution(int[] progresses, int[] speeds) {
-        Queue<Integer> queue = new Queue<>();
+        Queue<Integer> countQueue = new Queue<>();
         Queue<Integer> answerQueue = new Queue<>();
         int length = progresses.length;
 
-        // 100까지 며칠의 작업이 필요한지를 담고있는 queue 초기화 작업
+        // 100까지 며칠의 작업이 필요한지를 담고있는 countQueue 초기화 작업
         for (int i = 0; i < length; i++) {
             int count = 0;
             while (progresses[i] < 100) {
                 progresses[i] += speeds[i];
                 count++;
             }
-            queue.enqueue(count);
+            countQueue.enqueue(count);
         }
 
-        int size = queue.size();
+        int size = countQueue.size();
         int returnVal = 1;
-        int min = queue.dequeue();  // 3
+        int min = countQueue.dequeue();  // 3
         for (int i = 0; i < size-1; i++) {    // 0 1 2 3
-            if (min < queue.peek()) {
+            if (min < countQueue.peek()) {
                 answerQueue.enqueue(returnVal);
                 returnVal = 1;                      // 1
-            } else if (min >= queue.peek())
+            } else if (min >= countQueue.peek())
                 returnVal++;    // 2 3
-            min = queue.dequeue();  // 3(2) 2 6 7
+            min = countQueue.dequeue();  // 3(2) 2 6 7
         }
         answerQueue.enqueue(returnVal);
 
