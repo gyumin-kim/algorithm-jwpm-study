@@ -2,7 +2,7 @@ package examples.test.chap06;
 
 import java.util.Scanner;
 
-public class Exam6_1 {
+public class Prac1 {
     static void swap(int[] a, int idx1, int idx2) {
         int t = a[idx1];
         a[idx1] = a[idx2];

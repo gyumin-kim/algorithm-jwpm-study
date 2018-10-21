@@ -1,6 +1,6 @@
 package examples.test.chap06;
 
-public class Exam6_4 {
+public class Prac4 {
     static int compareCount = 0;
     static int swapCount = 0;
 

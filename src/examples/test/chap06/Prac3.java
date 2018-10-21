@@ -2,7 +2,7 @@ package examples.test.chap06;
 
 import java.util.Scanner;
 
-public class Exam6_3 {
+public class Prac3 {
     static int compareCount = 0;
     static int swapCount = 0;
 
