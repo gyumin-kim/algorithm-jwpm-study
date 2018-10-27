@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20ecbaad-e8fa-4f55-83e2-94b27b2caa3a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/examples/test/chap06/Prac8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/examples/test/chap08/Exam8_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/test/chap08/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/examples/test/chap09/Exam9_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/test/chap06/Exam6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/test/chap06/Prac1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/test/chap06/Exam6_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/test/chap06/Prac2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/test/chap06/Exam6_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/test/chap06/Prac3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/test/chap06/Exam6_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/test/chap06/Prac4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/test/chap06/Exam6_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/test/chap06/Prac5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/test/chap06/Exam6_5_2.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,36 +52,37 @@
     <session id="1437117989">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.1" value="3" />
           <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.2" value="4" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="125" />
+          <entry key="JAVA" value="130" />
           <entry key="Markdown" value="3" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="27065" />
+          <entry key="JAVA" value="27113" />
           <entry key="PLAIN_TEXT" value="201" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="63" />
-          <entry key="java" value="27065" />
+          <entry key="java" value="27113" />
           <entry key="txt" value="138" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="125" />
+          <entry key="java" value="130" />
           <entry key="md" value="4" />
         </counts>
       </usages-collector>
@@ -138,17 +133,67 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/examples/test/chap06/Prac5.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
+            <state relative-caret-position="609">
               <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/examples/test/chap08/Exam8_1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+            <state relative-caret-position="381">
+              <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/examples/test/chap08/LinkedList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2541">
+              <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+              <folding>
+                <element signature="e#471#472#0" expanded="true" />
+                <element signature="e#505#506#0" expanded="true" />
+                <element signature="e#2601#2602#0" expanded="true" />
+                <element signature="e#2629#2630#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/examples/test/chap09/Exam9_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="66" column="33" lean-forward="true" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#547#548#0" expanded="true" />
+                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#1245#1246#0" expanded="true" />
+                <element signature="e#1330#1331#0" expanded="true" />
+                <element signature="e#1592#1593#0" expanded="true" />
+                <element signature="e#1657#1658#0" expanded="true" />
+                <element signature="e#2394#2395#0" expanded="true" />
+                <element signature="e#2446#2447#0" expanded="true" />
+                <element signature="e#2477#2478#0" expanded="true" />
+                <element signature="e#2535#2536#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="445">
+              <caret line="99" column="34" lean-forward="true" selection-start-line="99" selection-start-column="34" selection-end-line="99" selection-end-column="34" />
+              <folding>
+                <element signature="e#2979#2980#0" expanded="true" />
+                <element signature="e#3009#3010#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -174,8 +219,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/examples/test/chap02/Prac10.java" />
-        <option value="$PROJECT_DIR$/src/examples/test/chap02/Prac11.java" />
         <option value="$PROJECT_DIR$/src/examples/test/chap01/Prac11.java" />
         <option value="$PROJECT_DIR$/src/examples/test/chap01/Prac16.java" />
         <option value="$PROJECT_DIR$/src/examples/test/chap01/Prac7.java" />
@@ -225,6 +268,8 @@
         <option value="$PROJECT_DIR$/src/examples/test/chap06/Prac8.java" />
         <option value="$PROJECT_DIR$/src/examples/test/chap06/Prac5.java" />
         <option value="$PROJECT_DIR$/src/examples/test/chap08/Exam8_1.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap08/LinkedList.java" />
+        <option value="$PROJECT_DIR$/src/examples/test/chap09/Exam9_2.java" />
       </list>
     </option>
   </component>
@@ -410,13 +455,6 @@
               <item name="algorithm-jwpm-study" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="chap06" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-jwpm-study" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="chap08" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -430,15 +468,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SearchEverywhereHistoryKey" value="string&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/String.java&#10;prac11&#9;RUN_CONFIGURATION&#9;Prac11" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540090872345" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540644161848" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Facets" />
     <property name="project.structure.proportion" value="0.15" />
@@ -464,13 +502,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exam8_1">
+  <component name="RunManager" selected="Application.Exam9_2">
     <configuration name="Exam8_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="examples.test.chap08.Exam8_1" />
       <module name="algorithm-jwpm-study" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="examples.test.chap08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam9_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="examples.test.chap09.Exam9_2" />
+      <module name="algorithm-jwpm-study" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="examples.test.chap09.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -517,33 +568,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sorting2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="examples.test.etc.Sorting2" />
-      <module name="algorithm-jwpm-study" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="examples.test.etc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.Prac4" />
       <item itemvalue="Application.Prac5" />
-      <item itemvalue="Application.Sorting2" />
       <item itemvalue="Application.Prac8" />
       <item itemvalue="Application.Exam8_1" />
+      <item itemvalue="Application.Exam9_2" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exam9_2" />
         <item itemvalue="Application.Exam8_1" />
         <item itemvalue="Application.Prac5" />
         <item itemvalue="Application.Prac8" />
         <item itemvalue="Application.Prac4" />
-        <item itemvalue="Application.Sorting2" />
       </list>
     </recent_temporary>
   </component>
@@ -558,7 +596,8 @@
       <option name="presentableId" value="Default" />
       <updated>1536365452147</updated>
       <workItem from="1538991737584" duration="34768000" />
-      <workItem from="1540087616235" duration="3845000" />
+      <workItem from="1540087616235" duration="7577000" />
+      <workItem from="1540607810868" duration="2516000" />
     </task>
     <task id="LOCAL-00001" summary="Compare two strings and print the result(문자열의 비교).">
       <created>1536454948828</created>
@@ -578,13 +617,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38613000" />
+    <option name="totallyTimeSpent" value="44861000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17381974" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17596567" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -593,12 +632,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32769832" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.24577373" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928468" visible="true" weight="0.44083226" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39895013" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32899868" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5007153" side_tool="true" weight="0.21259843" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32939634" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.28218466" />
@@ -640,34 +679,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/examples/test/chap01/Prac2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examples/test/chap01/Prac17.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examples/test/chap01/Prac16.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="22" column="34" lean-forward="true" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/examples/test/chap01/Prac15.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-451">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/test/chap02/Prac3.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
@@ -920,11 +931,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="1862" column="22" selection-start-line="1862" selection-start-column="22" selection-end-line="1862" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="956" column="18" selection-start-line="956" selection-start-column="18" selection-end-line="956" selection-end-column="18" />
           <folding>
-            <element signature="e#84738#84739#0" expanded="true" />
-            <element signature="e#84795#84796#0" expanded="true" />
-            <element signature="e#88329#88330#0" expanded="true" />
-            <element signature="e#88386#88387#0" expanded="true" />
+            <element signature="e#36393#36394#0" expanded="true" />
+            <element signature="e#36459#36460#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -959,26 +975,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/test/chap06/Prac5.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
+        <state relative-caret-position="609">
           <caret line="29" column="19" selection-start-line="29" selection-start-column="19" selection-end-line="29" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="956" column="18" selection-start-line="956" selection-start-column="18" selection-end-line="956" selection-end-column="18" />
-          <folding>
-            <element signature="e#36393#36394#0" expanded="true" />
-            <element signature="e#36459#36460#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/examples/test/chap08/Exam8_1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="50" column="14" lean-forward="true" selection-start-line="50" selection-start-column="14" selection-end-line="50" selection-end-column="14" />
+        <state relative-caret-position="381">
+          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/lang/Enum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="99" column="34" lean-forward="true" selection-start-line="99" selection-start-column="34" selection-end-line="99" selection-end-column="34" />
+          <folding>
+            <element signature="e#2979#2980#0" expanded="true" />
+            <element signature="e#3009#3010#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_181.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="82" selection-start-line="82" selection-end-line="82" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/test/chap08/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2541">
+          <caret line="5" column="20" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
+          <folding>
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#505#506#0" expanded="true" />
+            <element signature="e#2601#2602#0" expanded="true" />
+            <element signature="e#2629#2630#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/examples/test/chap09/Exam9_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="66" column="33" lean-forward="true" selection-start-line="66" selection-start-column="33" selection-end-line="66" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#600#601#0" expanded="true" />
+            <element signature="e#1245#1246#0" expanded="true" />
+            <element signature="e#1330#1331#0" expanded="true" />
+            <element signature="e#1592#1593#0" expanded="true" />
+            <element signature="e#1657#1658#0" expanded="true" />
+            <element signature="e#2394#2395#0" expanded="true" />
+            <element signature="e#2446#2447#0" expanded="true" />
+            <element signature="e#2477#2478#0" expanded="true" />
+            <element signature="e#2535#2536#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
